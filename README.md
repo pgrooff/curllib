@@ -10,4 +10,4 @@ What I have done on my Windows 7 PC:
 - set mode to debug and win32
 - linking is ok
 - however because I run R15 the win32 lib is not recognized. I have to go to X64
-- 
+- Out-of-date. I have switched to Chilkat.
